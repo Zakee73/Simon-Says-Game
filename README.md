@@ -1,9 +1,9 @@
-
+## About the project
 A fun and interactive Simon Says memory game built using HTML, CSS, and JavaScript.
 Test your memory skills by repeating the sequence of colors correctly!
 
 
-🎯 Features
+## 🎯 Features
 
 🎨 Interactive color animations
 
